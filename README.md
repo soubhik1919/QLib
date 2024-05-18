@@ -8,6 +8,12 @@ The objective of this project is to introduce and implement a range of models an
 
 The Python implementations are intended to be concise and efficient while as well being accessible.
 
+Basic understanding of stochastic calculus and probability theory is assumed.
+
+The below two references are sufficient to work through the implementation and theory provided here.
+
+<img src="extra_files/LesClewlow.jpg" width="350" title="LesClewlow">
+
 ## For Contributions ##
 
 1. Fork the project
