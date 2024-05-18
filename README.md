@@ -12,7 +12,8 @@ Basic understanding of stochastic calculus and probability theory is assumed.
 
 The below two references are sufficient to work through the implementation and theory provided here.
 
-<img src="extra_files/LesClewlow.jpg" width="350" title="LesClewlow">
+<img src="extra_files/LesClewlow.jpg" width="250" title="LesClewlow">
+<img src="extra_files/Shreeve.jpg" width="250" title="Shreeve">
 
 ## For Contributions ##
 
